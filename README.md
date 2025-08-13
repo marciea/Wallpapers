@@ -30,7 +30,8 @@
 <h3 align ="center" > Metropolis </h3>
   
 <p align ="center">
-  <img width="560" height="300" src="Aug2025/Metropolis.png"></p>
+  <img width="560" height="300" src="Aug2025/Metropolis.png">
+</p>
 
 ---
 
