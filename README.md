@@ -1,6 +1,6 @@
 <div align="center">
 
-# 【 Wallpapers 】
+#  Wallpapers 
 
 </div>
 
@@ -8,13 +8,13 @@
 
   These are some wallpapers I just thought look nice
   
-  The date is by upload and not by date of creation.
+>  The date is by upload and not by date of creation, all credit to original artist
 
 </div>
 
 <div align="center">
 
-  Preview of some wallpapers ↓
+  ↓ Preview of some of my personal favorites ⭑
 
 </div>
 
@@ -27,14 +27,14 @@
 
 ---
 
-<h3 align ="center" > Metropolis </h3>
+<h3 align ="center" > deer-1 </h3>
   
 <p align ="center">
-  <img width="560" height="300" src="Aug2025/metropolis.png">
+  <img width="560" height="400" src="Oct2026/deer-1.jpeg">
 </p>
 
 ---
 
-<h3 align ="center" > A Peak into the system </h3>
+<h3 align ="center" > 寂静一角 (A Quiet Corner) </h3>
 <p align ="center">
-  <img width="560" height="300" src="Aug2025/peak_into_the_system.png"></p>
+  <img width="560" height="300" src="Oct2026/quiet-corner.jpg"></p>
